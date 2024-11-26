@@ -1,114 +1,114 @@
-import { getPublicImageUrl } from '../utils/imageUtils';
+import { Images } from './imageImports';
 
 // Hero and CTA Images
-export const HERO_IMAGE = getPublicImageUrl('images/luxury-house-1.jpg');
-export const CTA_IMAGE = getPublicImageUrl('images/modern-house-1.jpg');
+export const HERO_IMAGE = Images.luxury.house1;
+export const CTA_IMAGE = Images.modern.house1;
 
 // Property Images - Enugu Houses
 export const ENUGU_HOUSE_IMAGES = {
   luxury_duplex: [
-    getPublicImageUrl('images/luxury-house-1.jpg'),
-    getPublicImageUrl('images/luxury-house-2.jpg'),
-    getPublicImageUrl('images/luxury-house-3.jpg'),
+    Images.luxury.house1,
+    Images.luxury.house2,
+    Images.luxury.house3,
   ],
   smart_home: [
-    getPublicImageUrl('images/modern-house-1.jpg'),
-    getPublicImageUrl('images/modern-house-2.jpg'),
-    getPublicImageUrl('images/modern-house-3.jpg'),
+    Images.modern.house1,
+    Images.modern.house2,
+    Images.modern.house3,
   ],
   apartment: [
-    getPublicImageUrl('images/modern-apartment-1.jpg'),
-    getPublicImageUrl('images/modern-apartment-2.jpg'),
-    getPublicImageUrl('images/modern-apartment-3.jpg'),
+    Images.apartment.modern1,
+    Images.apartment.modern2,
+    Images.apartment.modern3,
   ],
 };
 
 // Property Images - Enugu Land
 export const ENUGU_LAND_IMAGES = {
   commercial: [
-    getPublicImageUrl('images/modern-city-1.jpg'),
-    getPublicImageUrl('images/modern-city-2.jpg'),
+    Images.city.modern.city1,
+    Images.city.modern.city2,
   ],
   residential: [
-    getPublicImageUrl('images/african-city-1.jpg'),
-    getPublicImageUrl('images/african-city-2.jpg'),
+    Images.city.african.city1,
+    Images.city.african.city2,
   ],
 };
 
 // Property Images - Calabar Houses
 export const CALABAR_HOUSE_IMAGES = {
   villa: [
-    getPublicImageUrl('images/villa-1.jpg'),
-    getPublicImageUrl('images/villa-2.jpg'),
-    getPublicImageUrl('images/villa-3.jpg'),
+    Images.villa.villa1,
+    Images.villa.villa2,
+    Images.villa.villa3,
   ],
   waterfront: [
-    getPublicImageUrl('images/mansion-1.jpg'),
-    getPublicImageUrl('images/mansion-2.jpg'),
-    getPublicImageUrl('images/mansion-3.jpg'),
+    Images.mansion.mansion1,
+    Images.mansion.mansion2,
+    Images.mansion.mansion3,
   ],
 };
 
 // Property Images - Calabar Land
 export const CALABAR_LAND_IMAGES = {
   waterfront_development: [
-    getPublicImageUrl('images/nigeria-city-1.jpg'),
-    getPublicImageUrl('images/nigeria-city-2.jpg'),
+    Images.city.nigeria.city1,
+    Images.city.nigeria.city2,
   ],
   industrial: [
-    getPublicImageUrl('images/modern-city-3.jpg'),
-    getPublicImageUrl('images/modern-city-4.jpg'),
+    Images.city.modern.city3,
+    Images.city.modern.city4,
   ],
 };
 
 // Property-specific Images
 export const PROPERTY_IMAGES = {
-  INDEPENDENCE_LAYOUT: getPublicImageUrl('images/luxury-house-4.jpg'),
-  GRA_APARTMENT: getPublicImageUrl('images/modern-apartment-4.jpg'),
-  NEW_HAVEN_FLAT: getPublicImageUrl('images/modern-house-4.jpg'),
-  TRANS_EKULU_DUPLEX: getPublicImageUrl('images/mansion-4.jpg')
+  INDEPENDENCE_LAYOUT: Images.luxury.house4,
+  GRA_APARTMENT: Images.apartment.modern4,
+  NEW_HAVEN_FLAT: Images.modern.house4,
+  TRANS_EKULU_DUPLEX: Images.mansion.mansion4
 };
 
 // Location Images
 export const LOCATION_IMAGES = {
   enugu: {
-    independence_layout: getPublicImageUrl('images/modern-city-1.jpg'),
-    gra: getPublicImageUrl('images/african-city-3.jpg'),
-    new_haven: getPublicImageUrl('images/nigeria-city-3.jpg')
+    independence_layout: Images.city.modern.city1,
+    gra: Images.city.african.city3,
+    new_haven: Images.city.nigeria.city3
   },
   calabar: {
-    marina: getPublicImageUrl('images/nigeria-city-4.jpg'),
-    state_housing: getPublicImageUrl('images/modern-city-5.jpg'),
-    free_trade_zone: getPublicImageUrl('images/african-city-4.jpg')
+    marina: Images.city.nigeria.city4,
+    state_housing: Images.city.modern.city5,
+    free_trade_zone: Images.city.african.city4
   },
-  LUXURY_HOMES: getPublicImageUrl('images/modern-city-1.jpg'),
-  SERVICED_APARTMENTS: getPublicImageUrl('images/nigeria-city-5.jpg'),
-  LAND_PLOTS: getPublicImageUrl('images/african-city-5.jpg'),
-  NEW_DEVELOPMENTS: getPublicImageUrl('images/modern-city-2.jpg')
+  LUXURY_HOMES: Images.city.modern.city1,
+  SERVICED_APARTMENTS: Images.city.nigeria.city5,
+  LAND_PLOTS: Images.city.african.city5,
+  NEW_DEVELOPMENTS: Images.city.modern.city2
 };
 
 // Category Images
 export const CATEGORY_IMAGES = {
-  luxury_homes: getPublicImageUrl('images/luxury-house-5.jpg'),
-  apartments: getPublicImageUrl('images/modern-apartment-5.jpg'),
-  land: getPublicImageUrl('images/modern-city-3.jpg'),
-  waterfront: getPublicImageUrl('images/villa-5.jpg')
+  luxury_homes: Images.luxury.house5,
+  apartments: Images.apartment.modern5,
+  land: Images.city.modern.city3,
+  waterfront: Images.villa.villa5
 };
 
 // Agent Images
 export const AGENT_IMAGES = {
-  profile: getPublicImageUrl('images/real-estate-agent-1.jpg'),
+  profile: Images.agents.realEstate.agent1,
   team: [
-    getPublicImageUrl('images/business-person-1.jpg'),
-    getPublicImageUrl('images/african-business-1.jpg'),
-    getPublicImageUrl('images/real-estate-agent-2.jpg'),
-    getPublicImageUrl('images/business-person-2.jpg'),
+    Images.agents.business.person1,
+    Images.agents.african.business1,
+    Images.agents.realEstate.agent2,
+    Images.agents.business.person2,
   ]
 };
 
 // Testimonial Images
 export const TESTIMONIAL_IMAGES = {
-  TESTIMONIAL_1: getPublicImageUrl('images/african-business-2.jpg'),
-  TESTIMONIAL_2: getPublicImageUrl('images/business-person-3.jpg'),
-  TESTIMONIAL_3: getPublicImageUrl('images/african-business-3.jpg')
+  TESTIMONIAL_1: Images.agents.african.business2,
+  TESTIMONIAL_2: Images.agents.business.person3,
+  TESTIMONIAL_3: Images.agents.african.business3
 };

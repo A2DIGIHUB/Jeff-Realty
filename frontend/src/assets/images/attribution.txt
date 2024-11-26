@@ -1,0 +1,330 @@
+luxury-house-1.jpg:
+- Author: GregoryButler
+- Pixabay URL: https://pixabay.com/photos/large-home-residential-house-389271/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:43.735Z
+
+luxury-house-2.jpg:
+- Author: PIRO4D
+- Pixabay URL: https://pixabay.com/photos/lifestyle-bedroom-reside-3107041/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:44.696Z
+
+luxury-house-3.jpg:
+- Author: Engin_Akyurt
+- Pixabay URL: https://pixabay.com/photos/pool-house-luxury-swim-that-blue-5055009/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:45.702Z
+
+luxury-house-4.jpg:
+- Author: Gherks
+- Pixabay URL: https://pixabay.com/photos/sunset-houses-greece-santorini-7499759/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:46.452Z
+
+luxury-house-5.jpg:
+- Author: Tama66
+- Pixabay URL: https://pixabay.com/photos/staircase-foyer-residence-stairs-3728350/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:47.102Z
+
+modern-apartment-1.jpg:
+- Author: Orsna
+- Pixabay URL: https://pixabay.com/photos/architecture-buildings-skyscrapers-5583025/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:48.097Z
+
+modern-apartment-2.jpg:
+- Author: Life-Of-Pix
+- Pixabay URL: https://pixabay.com/photos/apartment-accommodation-flat-loft-406901/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:48.613Z
+
+modern-apartment-3.jpg:
+- Author: jandobry1
+- Pixabay URL: https://pixabay.com/photos/building-facade-blur-balconies-5881123/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:49.485Z
+
+modern-apartment-4.jpg:
+- Author: jothamsutharson
+- Pixabay URL: https://pixabay.com/photos/nyc-nyc-skyline-nyc-apartment-7710506/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:49.919Z
+
+modern-apartment-5.jpg:
+- Author: pierre9x6
+- Pixabay URL: https://pixabay.com/photos/apartment-colorful-building-4358755/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:50.645Z
+
+mansion-1.jpg:
+- Author: GregMontani
+- Pixabay URL: https://pixabay.com/photos/house-residence-building-mansion-4304096/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:51.835Z
+
+mansion-2.jpg:
+- Author: sarahlawrence603
+- Pixabay URL: https://pixabay.com/photos/architecture-house-building-summer-3070493/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:52.647Z
+
+mansion-3.jpg:
+- Author: ELG21
+- Pixabay URL: https://pixabay.com/photos/mansion-facade-manor-building-7091133/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:53.280Z
+
+mansion-4.jpg:
+- Author: Tama66
+- Pixabay URL: https://pixabay.com/photos/castle-villa-chateau-architecture-4955001/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:54.179Z
+
+mansion-5.jpg:
+- Author: Foundry
+- Pixabay URL: https://pixabay.com/photos/life-beauty-scene-chateau-mansion-864375/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:55.012Z
+
+villa-1.jpg:
+- Author: Camera-man
+- Pixabay URL: https://pixabay.com/photos/villa-balbiano-fontana-garden-6154200/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:56.719Z
+
+villa-2.jpg:
+- Author: HUNGQUACH679PNG
+- Pixabay URL: https://pixabay.com/photos/house-architecture-building-villa-7310177/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:57.761Z
+
+villa-3.jpg:
+- Author: dimitrisvetsikas1969
+- Pixabay URL: https://pixabay.com/photos/residence-property-house-2219972/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:58.411Z
+
+villa-4.jpg:
+- Author: thibaultjugain
+- Pixabay URL: https://pixabay.com/photos/real-estate-luxury-villa-vacation-4955087/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:37:59.259Z
+
+villa-5.jpg:
+- Author: dimitrisvetsikas1969
+- Pixabay URL: https://pixabay.com/photos/villa-tourism-luxury-architecture-4621636/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:00.374Z
+
+modern-house-1.jpg:
+- Author: newhouse
+- Pixabay URL: https://pixabay.com/photos/furniture-living-room-modern-998265/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:01.727Z
+
+modern-house-2.jpg:
+- Author: 652234
+- Pixabay URL: https://pixabay.com/photos/architecture-swinging-modern-1079806/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:02.714Z
+
+modern-house-3.jpg:
+- Author: dimitrisvetsikas1969
+- Pixabay URL: https://pixabay.com/photos/residence-property-house-2219972/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:03.764Z
+
+modern-house-4.jpg:
+- Author: GregoryButler
+- Pixabay URL: https://pixabay.com/photos/large-home-residential-house-389271/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:04.814Z
+
+modern-house-5.jpg:
+- Author: Thanh_Tung
+- Pixabay URL: https://pixabay.com/photos/building-windows-house-home-7077718/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:05.740Z
+
+african-city-1.jpg:
+- Author: Surprising_SnapShots
+- Pixabay URL: https://pixabay.com/photos/women-city-street-fashion-6886782/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:06.910Z
+
+african-city-2.jpg:
+- Author: icsilviu
+- Pixabay URL: https://pixabay.com/photos/african-man-street-portrait-7286122/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:07.545Z
+
+african-city-3.jpg:
+- Author: Surprising_SnapShots
+- Pixabay URL: https://pixabay.com/photos/man-african-man-portrait-outdoors-7351001/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:08.036Z
+
+african-city-4.jpg:
+- Author: Beesmurf
+- Pixabay URL: https://pixabay.com/photos/african-huts-house-huts-rondaval-5509918/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:08.762Z
+
+african-city-5.jpg:
+- Author: asmuSe
+- Pixabay URL: https://pixabay.com/photos/tianjin-sunset-city-aerial-view-2185510/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:09.648Z
+
+nigeria-city-1.jpg:
+- Author: ArtisticRealms
+- Pixabay URL: https://pixabay.com/photos/vehicles-road-city-traffic-street-5871002/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:10.730Z
+
+nigeria-city-2.jpg:
+- Author: dotun55
+- Pixabay URL: https://pixabay.com/photos/lagoon-long-exposure-bridge-horizon-4639420/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:11.146Z
+
+nigeria-city-3.jpg:
+- Author: asmuSe
+- Pixabay URL: https://pixabay.com/photos/tianjin-sunset-city-aerial-view-2185510/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:11.726Z
+
+nigeria-city-4.jpg:
+- Author: soultrain
+- Pixabay URL: https://pixabay.com/photos/sunset-nature-city-twilight-8170058/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:12.359Z
+
+nigeria-city-5.jpg:
+- Author: Tama66
+- Pixabay URL: https://pixabay.com/photos/bridge-travel-city-path-night-7108432/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:12.915Z
+
+modern-city-1.jpg:
+- Author: 652234
+- Pixabay URL: https://pixabay.com/photos/architecture-media-harbour-1515475/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:14.013Z
+
+modern-city-2.jpg:
+- Author: wal_172619
+- Pixabay URL: https://pixabay.com/photos/building-architecture-window-facade-7956107/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:14.701Z
+
+modern-city-3.jpg:
+- Author: Cristhian_Adame_Photo
+- Pixabay URL: https://pixabay.com/photos/city-modern-calm-highway-road-7569067/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:15.491Z
+
+modern-city-4.jpg:
+- Author: 12019
+- Pixabay URL: https://pixabay.com/photos/buildings-city-illuminated-1804481/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:16.383Z
+
+modern-city-5.jpg:
+- Author: Dylanleagh
+- Pixabay URL: https://pixabay.com/photos/buildings-modern-architecture-city-6528061/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:16.985Z
+
+business-person-1.jpg:
+- Author: barbaracascao
+- Pixabay URL: https://pixabay.com/photos/city-window-architecture-urban-4991094/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:18.131Z
+
+business-person-2.jpg:
+- Author: rus-burkhanov
+- Pixabay URL: https://pixabay.com/photos/building-city-business-office-4803602/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:18.728Z
+
+business-person-3.jpg:
+- Author: Mohamed_hassan
+- Pixabay URL: https://pixabay.com/photos/teamwork-cooperation-brainstorming-3213924/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:19.710Z
+
+business-person-4.jpg:
+- Author: Dylanleagh
+- Pixabay URL: https://pixabay.com/photos/building-skyscraper-facade-modern-6528075/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:20.230Z
+
+business-person-5.jpg:
+- Author: fietzfotos
+- Pixabay URL: https://pixabay.com/photos/stairs-building-businessmen-6133971/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:20.808Z
+
+african-business-1.jpg:
+- Author: barbaracascao
+- Pixabay URL: https://pixabay.com/photos/city-window-architecture-urban-4991094/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:21.698Z
+
+african-business-2.jpg:
+- Author: rus-burkhanov
+- Pixabay URL: https://pixabay.com/photos/building-city-business-office-4803602/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:22.227Z
+
+african-business-3.jpg:
+- Author: Mohamed_hassan
+- Pixabay URL: https://pixabay.com/photos/teamwork-cooperation-brainstorming-3213924/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:23.503Z
+
+african-business-4.jpg:
+- Author: Dylanleagh
+- Pixabay URL: https://pixabay.com/photos/building-skyscraper-facade-modern-6528075/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:24.181Z
+
+african-business-5.jpg:
+- Author: fietzfotos
+- Pixabay URL: https://pixabay.com/photos/stairs-building-businessmen-6133971/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:25.389Z
+
+real-estate-agent-1.jpg:
+- Author: OleksandrPidvalnyi
+- Pixabay URL: https://pixabay.com/photos/real-estate-homeownership-homebuying-6688945/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:26.239Z
+
+real-estate-agent-2.jpg:
+- Author: Herrfilm
+- Pixabay URL: https://pixabay.com/photos/skyscrapers-skyline-city-buildings-450793/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:26.872Z
+
+real-estate-agent-3.jpg:
+- Author: PublicDomainPictures
+- Pixabay URL: https://pixabay.com/photos/architecture-buildings-city-22039/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:27.877Z
+
+real-estate-agent-4.jpg:
+- Author: Tumisu
+- Pixabay URL: https://pixabay.com/photos/real-estate-agent-sale-home-keys-3337032/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:28.341Z
+
+real-estate-agent-5.jpg:
+- Author: fietzfotos
+- Pixabay URL: https://pixabay.com/photos/architecture-skyscrapers-buildings-5999913/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:38:28.885Z
+
