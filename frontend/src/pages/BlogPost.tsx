@@ -2,7 +2,8 @@ import React from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { CalendarIcon, UserIcon, ClockIcon, ArrowLeftIcon } from '@heroicons/react/24/outline';
 
-interface BlogPost {
+// Blog post data type
+interface BlogPostType {
   id: string;
   title: string;
   content: string;
@@ -14,8 +15,8 @@ interface BlogPost {
   category: string;
 }
 
-// This would typically come from an API
-const blogPosts: Record<string, BlogPost> = {
+// Sample blog post data
+const blogPosts: Record<string, BlogPostType> = {
   '1': {
     id: '1',
     title: 'Top Neighborhoods in Enugu for Family Living',
@@ -116,7 +117,7 @@ const blogPosts: Record<string, BlogPost> = {
   // Add more blog posts here
 };
 
-const BlogPost: React.FC = () => {
+const BlogPostComponent: React.FC = () => {
   const { id } = useParams<{ id: string }>();
   const post = id ? blogPosts[id] : null;
 
@@ -298,4 +299,4 @@ const BlogPost: React.FC = () => {
   );
 };
 
-export default BlogPost;
+export default BlogPostComponent;
