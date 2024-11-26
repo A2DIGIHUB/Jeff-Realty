@@ -1,0 +1,300 @@
+luxury-house-1.jpg:
+- Author: GregoryButler
+- Pixabay URL: https://pixabay.com/photos/large-home-residential-house-389271/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:09:47.641Z
+
+luxury-house-2.jpg:
+- Author: PIRO4D
+- Pixabay URL: https://pixabay.com/photos/lifestyle-bedroom-reside-3107041/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:09:48.624Z
+
+luxury-house-3.jpg:
+- Author: Engin_Akyurt
+- Pixabay URL: https://pixabay.com/photos/pool-house-luxury-swim-that-blue-5055009/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:09:49.463Z
+
+luxury-house-4.jpg:
+- Author: Gherks
+- Pixabay URL: https://pixabay.com/photos/sunset-houses-greece-santorini-7499759/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:09:50.277Z
+
+luxury-house-5.jpg:
+- Author: Tama66
+- Pixabay URL: https://pixabay.com/photos/staircase-foyer-residence-stairs-3728350/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:09:51.409Z
+
+modern-apartment-1.jpg:
+- Author: Orsna
+- Pixabay URL: https://pixabay.com/photos/architecture-buildings-skyscrapers-5583025/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:09:52.652Z
+
+modern-apartment-2.jpg:
+- Author: Life-Of-Pix
+- Pixabay URL: https://pixabay.com/photos/apartment-accommodation-flat-loft-406901/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:09:53.690Z
+
+modern-apartment-3.jpg:
+- Author: jandobry1
+- Pixabay URL: https://pixabay.com/photos/building-facade-blur-balconies-5881123/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:09:55.645Z
+
+modern-apartment-4.jpg:
+- Author: jothamsutharson
+- Pixabay URL: https://pixabay.com/photos/nyc-nyc-skyline-nyc-apartment-7710506/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:09:56.615Z
+
+modern-apartment-5.jpg:
+- Author: Sangeeth_n
+- Pixabay URL: https://pixabay.com/photos/tallest-skyscraper-architecture-3093955/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:09:57.644Z
+
+mansion-1.jpg:
+- Author: GregMontani
+- Pixabay URL: https://pixabay.com/photos/house-residence-building-mansion-4304096/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:09:59.810Z
+
+mansion-2.jpg:
+- Author: sarahlawrence603
+- Pixabay URL: https://pixabay.com/photos/architecture-house-building-summer-3070493/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:00.723Z
+
+mansion-3.jpg:
+- Author: ELG21
+- Pixabay URL: https://pixabay.com/photos/mansion-facade-manor-building-7091133/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:01.555Z
+
+mansion-4.jpg:
+- Author: Tama66
+- Pixabay URL: https://pixabay.com/photos/castle-villa-chateau-architecture-4955001/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:02.555Z
+
+mansion-5.jpg:
+- Author: Foundry
+- Pixabay URL: https://pixabay.com/photos/life-beauty-scene-chateau-mansion-864375/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:03.655Z
+
+villa-1.jpg:
+- Author: Camera-man
+- Pixabay URL: https://pixabay.com/photos/villa-balbiano-fontana-garden-6154200/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:09.088Z
+
+villa-2.jpg:
+- Author: HUNGQUACH679PNG
+- Pixabay URL: https://pixabay.com/photos/house-architecture-building-villa-7310177/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:10.082Z
+
+villa-3.jpg:
+- Author: dimitrisvetsikas1969
+- Pixabay URL: https://pixabay.com/photos/residence-property-house-2219972/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:10.965Z
+
+villa-4.jpg:
+- Author: thibaultjugain
+- Pixabay URL: https://pixabay.com/photos/real-estate-luxury-villa-vacation-4955087/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:12.097Z
+
+villa-5.jpg:
+- Author: dimitrisvetsikas1969
+- Pixabay URL: https://pixabay.com/photos/villa-tourism-luxury-architecture-4621636/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:13.140Z
+
+modern-house-1.jpg:
+- Author: newhouse
+- Pixabay URL: https://pixabay.com/photos/furniture-living-room-modern-998265/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:14.664Z
+
+modern-house-2.jpg:
+- Author: 652234
+- Pixabay URL: https://pixabay.com/photos/architecture-swinging-modern-1079806/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:15.417Z
+
+modern-house-3.jpg:
+- Author: dimitrisvetsikas1969
+- Pixabay URL: https://pixabay.com/photos/residence-property-house-2219972/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:16.465Z
+
+modern-house-4.jpg:
+- Author: GregoryButler
+- Pixabay URL: https://pixabay.com/photos/large-home-residential-house-389271/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:17.186Z
+
+modern-house-5.jpg:
+- Author: Thanh_Tung
+- Pixabay URL: https://pixabay.com/photos/building-windows-house-home-7077718/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:18.176Z
+
+luxury-house-1.jpg:
+- Author: GregoryButler
+- Pixabay URL: https://pixabay.com/photos/large-home-residential-house-389271/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:14:51.112Z
+
+luxury-house-2.jpg:
+- Author: PIRO4D
+- Pixabay URL: https://pixabay.com/photos/lifestyle-bedroom-reside-3107041/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:14:51.821Z
+
+luxury-house-3.jpg:
+- Author: Engin_Akyurt
+- Pixabay URL: https://pixabay.com/photos/pool-house-luxury-swim-that-blue-5055009/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:14:52.878Z
+
+luxury-house-4.jpg:
+- Author: Gherks
+- Pixabay URL: https://pixabay.com/photos/sunset-houses-greece-santorini-7499759/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:14:53.726Z
+
+luxury-house-5.jpg:
+- Author: Tama66
+- Pixabay URL: https://pixabay.com/photos/staircase-foyer-residence-stairs-3728350/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:14:54.418Z
+
+modern-apartment-1.jpg:
+- Author: Orsna
+- Pixabay URL: https://pixabay.com/photos/architecture-buildings-skyscrapers-5583025/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:14:55.540Z
+
+modern-apartment-2.jpg:
+- Author: Life-Of-Pix
+- Pixabay URL: https://pixabay.com/photos/apartment-accommodation-flat-loft-406901/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:14:56.153Z
+
+modern-apartment-3.jpg:
+- Author: jandobry1
+- Pixabay URL: https://pixabay.com/photos/building-facade-blur-balconies-5881123/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:14:57.061Z
+
+modern-apartment-4.jpg:
+- Author: jothamsutharson
+- Pixabay URL: https://pixabay.com/photos/nyc-nyc-skyline-nyc-apartment-7710506/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:14:57.687Z
+
+modern-apartment-5.jpg:
+- Author: Sangeeth_n
+- Pixabay URL: https://pixabay.com/photos/tallest-skyscraper-architecture-3093955/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:14:58.309Z
+
+mansion-1.jpg:
+- Author: GregMontani
+- Pixabay URL: https://pixabay.com/photos/house-residence-building-mansion-4304096/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:14:59.642Z
+
+mansion-2.jpg:
+- Author: sarahlawrence603
+- Pixabay URL: https://pixabay.com/photos/architecture-house-building-summer-3070493/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:00.567Z
+
+mansion-3.jpg:
+- Author: ELG21
+- Pixabay URL: https://pixabay.com/photos/mansion-facade-manor-building-7091133/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:01.115Z
+
+mansion-4.jpg:
+- Author: Tama66
+- Pixabay URL: https://pixabay.com/photos/castle-villa-chateau-architecture-4955001/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:01.813Z
+
+mansion-5.jpg:
+- Author: Foundry
+- Pixabay URL: https://pixabay.com/photos/life-beauty-scene-chateau-mansion-864375/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:02.445Z
+
+villa-1.jpg:
+- Author: Camera-man
+- Pixabay URL: https://pixabay.com/photos/villa-balbiano-fontana-garden-6154200/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:03.619Z
+
+villa-2.jpg:
+- Author: HUNGQUACH679PNG
+- Pixabay URL: https://pixabay.com/photos/house-architecture-building-villa-7310177/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:04.216Z
+
+villa-3.jpg:
+- Author: dimitrisvetsikas1969
+- Pixabay URL: https://pixabay.com/photos/residence-property-house-2219972/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:04.764Z
+
+villa-4.jpg:
+- Author: thibaultjugain
+- Pixabay URL: https://pixabay.com/photos/real-estate-luxury-villa-vacation-4955087/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:05.480Z
+
+villa-5.jpg:
+- Author: dimitrisvetsikas1969
+- Pixabay URL: https://pixabay.com/photos/villa-tourism-luxury-architecture-4621636/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:06.161Z
+
+modern-house-1.jpg:
+- Author: newhouse
+- Pixabay URL: https://pixabay.com/photos/furniture-living-room-modern-998265/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:07.101Z
+
+modern-house-2.jpg:
+- Author: 652234
+- Pixabay URL: https://pixabay.com/photos/architecture-swinging-modern-1079806/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:07.592Z
+
+modern-house-3.jpg:
+- Author: dimitrisvetsikas1969
+- Pixabay URL: https://pixabay.com/photos/residence-property-house-2219972/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:08.100Z
+
+modern-house-4.jpg:
+- Author: GregoryButler
+- Pixabay URL: https://pixabay.com/photos/large-home-residential-house-389271/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:09.080Z
+
+modern-house-5.jpg:
+- Author: Thanh_Tung
+- Pixabay URL: https://pixabay.com/photos/building-windows-house-home-7077718/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:09.943Z
+

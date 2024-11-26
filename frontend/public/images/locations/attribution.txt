@@ -1,0 +1,180 @@
+african-city-1.jpg:
+- Author: Surprising_SnapShots
+- Pixabay URL: https://pixabay.com/photos/women-city-street-fashion-6886782/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:19.538Z
+
+african-city-2.jpg:
+- Author: icsilviu
+- Pixabay URL: https://pixabay.com/photos/african-man-street-portrait-7286122/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:20.317Z
+
+african-city-3.jpg:
+- Author: Surprising_SnapShots
+- Pixabay URL: https://pixabay.com/photos/man-african-man-portrait-outdoors-7351001/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:21.112Z
+
+african-city-4.jpg:
+- Author: Beesmurf
+- Pixabay URL: https://pixabay.com/photos/african-huts-house-huts-rondaval-5509918/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:22.398Z
+
+african-city-5.jpg:
+- Author: asmuSe
+- Pixabay URL: https://pixabay.com/photos/tianjin-sunset-city-aerial-view-2185510/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:23.415Z
+
+nigeria-city-1.jpg:
+- Author: ArtisticRealms
+- Pixabay URL: https://pixabay.com/photos/vehicles-road-city-traffic-street-5871002/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:25.062Z
+
+nigeria-city-2.jpg:
+- Author: dotun55
+- Pixabay URL: https://pixabay.com/photos/lagoon-long-exposure-bridge-horizon-4639420/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:25.636Z
+
+nigeria-city-3.jpg:
+- Author: asmuSe
+- Pixabay URL: https://pixabay.com/photos/tianjin-sunset-city-aerial-view-2185510/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:26.630Z
+
+nigeria-city-4.jpg:
+- Author: soultrain
+- Pixabay URL: https://pixabay.com/photos/sunset-nature-city-twilight-8170058/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:27.654Z
+
+nigeria-city-5.jpg:
+- Author: Tama66
+- Pixabay URL: https://pixabay.com/photos/bridge-travel-city-path-night-7108432/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:28.409Z
+
+modern-city-1.jpg:
+- Author: 652234
+- Pixabay URL: https://pixabay.com/photos/architecture-media-harbour-1515475/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:30.116Z
+
+modern-city-2.jpg:
+- Author: wal_172619
+- Pixabay URL: https://pixabay.com/photos/building-architecture-window-facade-7956107/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:31.077Z
+
+modern-city-3.jpg:
+- Author: Cristhian_Adame_Photo
+- Pixabay URL: https://pixabay.com/photos/city-modern-calm-highway-road-7569067/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:32.252Z
+
+modern-city-4.jpg:
+- Author: 12019
+- Pixabay URL: https://pixabay.com/photos/buildings-city-illuminated-1804481/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:33.170Z
+
+modern-city-5.jpg:
+- Author: Dylanleagh
+- Pixabay URL: https://pixabay.com/photos/buildings-modern-architecture-city-6528061/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:34.046Z
+
+african-city-1.jpg:
+- Author: Surprising_SnapShots
+- Pixabay URL: https://pixabay.com/photos/women-city-street-fashion-6886782/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:10.885Z
+
+african-city-2.jpg:
+- Author: icsilviu
+- Pixabay URL: https://pixabay.com/photos/african-man-street-portrait-7286122/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:11.624Z
+
+african-city-3.jpg:
+- Author: Surprising_SnapShots
+- Pixabay URL: https://pixabay.com/photos/man-african-man-portrait-outdoors-7351001/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:12.323Z
+
+african-city-4.jpg:
+- Author: Beesmurf
+- Pixabay URL: https://pixabay.com/photos/african-huts-house-huts-rondaval-5509918/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:13.348Z
+
+african-city-5.jpg:
+- Author: asmuSe
+- Pixabay URL: https://pixabay.com/photos/tianjin-sunset-city-aerial-view-2185510/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:14.572Z
+
+nigeria-city-1.jpg:
+- Author: ArtisticRealms
+- Pixabay URL: https://pixabay.com/photos/vehicles-road-city-traffic-street-5871002/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:15.587Z
+
+nigeria-city-2.jpg:
+- Author: dotun55
+- Pixabay URL: https://pixabay.com/photos/lagoon-long-exposure-bridge-horizon-4639420/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:15.992Z
+
+nigeria-city-3.jpg:
+- Author: asmuSe
+- Pixabay URL: https://pixabay.com/photos/tianjin-sunset-city-aerial-view-2185510/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:16.529Z
+
+nigeria-city-4.jpg:
+- Author: soultrain
+- Pixabay URL: https://pixabay.com/photos/sunset-nature-city-twilight-8170058/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:17.129Z
+
+nigeria-city-5.jpg:
+- Author: Tama66
+- Pixabay URL: https://pixabay.com/photos/bridge-travel-city-path-night-7108432/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:17.876Z
+
+modern-city-1.jpg:
+- Author: 652234
+- Pixabay URL: https://pixabay.com/photos/architecture-media-harbour-1515475/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:19.345Z
+
+modern-city-2.jpg:
+- Author: wal_172619
+- Pixabay URL: https://pixabay.com/photos/building-architecture-window-facade-7956107/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:20.038Z
+
+modern-city-3.jpg:
+- Author: Cristhian_Adame_Photo
+- Pixabay URL: https://pixabay.com/photos/city-modern-calm-highway-road-7569067/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:21.156Z
+
+modern-city-4.jpg:
+- Author: 12019
+- Pixabay URL: https://pixabay.com/photos/buildings-city-illuminated-1804481/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:21.781Z
+
+modern-city-5.jpg:
+- Author: Dylanleagh
+- Pixabay URL: https://pixabay.com/photos/buildings-modern-architecture-city-6528061/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:22.476Z
+

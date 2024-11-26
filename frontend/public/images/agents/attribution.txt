@@ -1,0 +1,180 @@
+business-person-1.jpg:
+- Author: barbaracascao
+- Pixabay URL: https://pixabay.com/photos/city-window-architecture-urban-4991094/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:35.644Z
+
+business-person-2.jpg:
+- Author: Mohamed_hassan
+- Pixabay URL: https://pixabay.com/photos/teamwork-cooperation-brainstorming-3213924/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:36.538Z
+
+business-person-3.jpg:
+- Author: rus-burkhanov
+- Pixabay URL: https://pixabay.com/photos/building-city-business-office-4803602/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:37.202Z
+
+business-person-4.jpg:
+- Author: Dylanleagh
+- Pixabay URL: https://pixabay.com/photos/building-skyscraper-facade-modern-6528075/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:38.073Z
+
+business-person-5.jpg:
+- Author: fietzfotos
+- Pixabay URL: https://pixabay.com/photos/stairs-building-businessmen-6133971/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:39.433Z
+
+african-business-1.jpg:
+- Author: barbaracascao
+- Pixabay URL: https://pixabay.com/photos/city-window-architecture-urban-4991094/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:40.743Z
+
+african-business-2.jpg:
+- Author: Mohamed_hassan
+- Pixabay URL: https://pixabay.com/photos/teamwork-cooperation-brainstorming-3213924/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:42.669Z
+
+african-business-3.jpg:
+- Author: rus-burkhanov
+- Pixabay URL: https://pixabay.com/photos/building-city-business-office-4803602/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:43.924Z
+
+african-business-4.jpg:
+- Author: Dylanleagh
+- Pixabay URL: https://pixabay.com/photos/building-skyscraper-facade-modern-6528075/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:44.927Z
+
+african-business-5.jpg:
+- Author: fietzfotos
+- Pixabay URL: https://pixabay.com/photos/stairs-building-businessmen-6133971/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:46.951Z
+
+real-estate-agent-1.jpg:
+- Author: OleksandrPidvalnyi
+- Pixabay URL: https://pixabay.com/photos/real-estate-homeownership-homebuying-6688945/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:48.601Z
+
+real-estate-agent-2.jpg:
+- Author: Herrfilm
+- Pixabay URL: https://pixabay.com/photos/skyscrapers-skyline-city-buildings-450793/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:50.311Z
+
+real-estate-agent-3.jpg:
+- Author: Tumisu
+- Pixabay URL: https://pixabay.com/photos/real-estate-agent-sale-home-keys-3337032/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:50.928Z
+
+real-estate-agent-4.jpg:
+- Author: PublicDomainPictures
+- Pixabay URL: https://pixabay.com/photos/architecture-buildings-city-22039/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:52.675Z
+
+real-estate-agent-5.jpg:
+- Author: fietzfotos
+- Pixabay URL: https://pixabay.com/photos/architecture-skyscrapers-buildings-5999913/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:10:53.942Z
+
+business-person-1.jpg:
+- Author: barbaracascao
+- Pixabay URL: https://pixabay.com/photos/city-window-architecture-urban-4991094/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:23.744Z
+
+business-person-2.jpg:
+- Author: Mohamed_hassan
+- Pixabay URL: https://pixabay.com/photos/teamwork-cooperation-brainstorming-3213924/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:24.549Z
+
+business-person-3.jpg:
+- Author: rus-burkhanov
+- Pixabay URL: https://pixabay.com/photos/building-city-business-office-4803602/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:25.113Z
+
+business-person-4.jpg:
+- Author: Dylanleagh
+- Pixabay URL: https://pixabay.com/photos/building-skyscraper-facade-modern-6528075/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:25.661Z
+
+business-person-5.jpg:
+- Author: fietzfotos
+- Pixabay URL: https://pixabay.com/photos/stairs-building-businessmen-6133971/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:26.339Z
+
+african-business-1.jpg:
+- Author: barbaracascao
+- Pixabay URL: https://pixabay.com/photos/city-window-architecture-urban-4991094/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:27.286Z
+
+african-business-2.jpg:
+- Author: rus-burkhanov
+- Pixabay URL: https://pixabay.com/photos/building-city-business-office-4803602/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:27.938Z
+
+african-business-3.jpg:
+- Author: Mohamed_hassan
+- Pixabay URL: https://pixabay.com/photos/teamwork-cooperation-brainstorming-3213924/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:28.665Z
+
+african-business-4.jpg:
+- Author: Dylanleagh
+- Pixabay URL: https://pixabay.com/photos/building-skyscraper-facade-modern-6528075/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:29.521Z
+
+african-business-5.jpg:
+- Author: fietzfotos
+- Pixabay URL: https://pixabay.com/photos/stairs-building-businessmen-6133971/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:30.735Z
+
+real-estate-agent-1.jpg:
+- Author: OleksandrPidvalnyi
+- Pixabay URL: https://pixabay.com/photos/real-estate-homeownership-homebuying-6688945/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:31.887Z
+
+real-estate-agent-2.jpg:
+- Author: Herrfilm
+- Pixabay URL: https://pixabay.com/photos/skyscrapers-skyline-city-buildings-450793/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:32.585Z
+
+real-estate-agent-3.jpg:
+- Author: Tumisu
+- Pixabay URL: https://pixabay.com/photos/real-estate-agent-sale-home-keys-3337032/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:33.155Z
+
+real-estate-agent-4.jpg:
+- Author: PublicDomainPictures
+- Pixabay URL: https://pixabay.com/photos/architecture-buildings-city-22039/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:34.665Z
+
+real-estate-agent-5.jpg:
+- Author: fietzfotos
+- Pixabay URL: https://pixabay.com/photos/architecture-skyscrapers-buildings-5999913/
+- License: Pixabay License
+- Downloaded: 2024-11-25T21:15:35.222Z
+

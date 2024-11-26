@@ -1,0 +1,76 @@
+.team-carousel {
+  padding: 20px 40px !important;
+}
+
+.team-carousel .swiper-button-next,
+.team-carousel .swiper-button-prev {
+  color: var(--primary-color, #10b981);
+  background: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.team-carousel .swiper-button-next:after,
+.team-carousel .swiper-button-prev:after {
+  font-size: 20px;
+}
+
+.team-carousel .swiper-button-next:hover,
+.team-carousel .swiper-button-prev:hover {
+  background: #f9fafb;
+  transform: scale(1.1);
+}
+
+.team-carousel .swiper-pagination-bullet {
+  background: var(--primary-color, #10b981);
+  opacity: 0.5;
+  transition: opacity 0.3s ease;
+}
+
+.team-carousel .swiper-pagination-bullet-active {
+  opacity: 1;
+  transform: scale(1.2);
+}
+
+.team-carousel .swiper-slide {
+  height: auto;
+  opacity: 0.5;
+  transform: scale(0.9);
+  transition: all 0.3s ease;
+}
+
+.team-carousel .swiper-slide-active {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* Ensure equal height for all slides */
+.team-carousel .swiper-slide > div {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Custom animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.8s ease-out forwards;
+}
+
+.animate-fade-in-delayed {
+  animation: fadeIn 0.8s ease-out 0.2s forwards;
+  opacity: 0;
+}
